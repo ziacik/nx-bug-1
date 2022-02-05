@@ -18,7 +18,8 @@
         "tsConfig": "apps/app/tsconfig.app.json",
         "assets": ["apps/app/src/favicon.ico", "apps/app/src/assets"],
         "styles": ["apps/app/src/styles.scss"],
-        "scripts": []
+        "scripts": [],
+        "webpackConfig": "apps/app/webpack.config.js"
       },
       "configurations": {
         "production": {
