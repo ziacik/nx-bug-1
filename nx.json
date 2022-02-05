@@ -1,7 +1,7 @@
 {
   "npmScope": "nx-bug-1",
   "affected": {
-    "defaultBase": "main"
+    "defaultBase": "master"
   },
   "cli": {
     "defaultCollection": "@nrwl/web"
