@@ -1,3 +1,3 @@
-import './app/app.element.ts';
+import './app/app.element';
 import './imported.scss';
 // import './imported.module.scss';
